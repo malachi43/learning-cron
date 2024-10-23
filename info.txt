@@ -1,0 +1,13 @@
+ # ┌────────────── second (optional), * or 0-59
+ # │ ┌──────────── minute, * or 0-59
+ # │ │ ┌────────── hour, * or 0-23
+ # │ │ │ ┌──────── day of month, * or 1-31
+ # │ │ │ │ ┌────── month, * or 1-12, Januray, February, March or Jan, Feb, Mar
+ # │ │ │ │ │ ┌──── day of week, *, 0-7 (where 0 and 7 are both sundays), Tuesday or Tue
+ # │ │ │ │ │ │
+ # │ │ │ │ │ │
+ # * * * * * *
+
+ when all the * * * * * * asteriks are selected it is read as, for every single second in every single minutes in every single hour in every single day of the month in every single month and in every single day of the week execute a particular task.
+
+ NOTE: see the * as meaning "for every"
